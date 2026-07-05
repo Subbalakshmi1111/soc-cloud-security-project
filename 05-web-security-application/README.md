@@ -9,7 +9,6 @@ Vulnerabilities Found:
 | Command Injection | Critical | Achieved Remote Code Execution — exposed server OS via uname -a |
 | Unrestricted File Upload | Critical | Uploaded PHP web shell — confirmed persistent backdoor access |
 | XSS Reflected | High | Executed JavaScript in browser — session hijacking possible |
-
 Tools Used:
 Kali Linux · DVWA · Firefox · OWASP Top 10 · MITRE ATT&CK
 
